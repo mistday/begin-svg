@@ -53,6 +53,6 @@ window.onload = function() {
 
 
   // test
-  fullSector(90);
+  fullSector(10);
 
 }
